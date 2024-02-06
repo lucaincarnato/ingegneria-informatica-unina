@@ -13,3 +13,5 @@ Gli appunti disponibili fanno riferimento a corsi di cui è stato sostenuto l'es
 2. [CALCOLATORI ELETTRONICI (Prof. Alessandro Cilardo) - 9 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Secondo%20semestre/Calcolatori%20elettronici.pdf)
 3. [FISICA GENERALE II (Prof. Elvira Rossi) - 6 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Secondo%20semestre/Fisica%20generale%20II.pdf)
 4. [GEOMETRIA E ALGEBRA (Prof. Giovanna Ilardi) - 6 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Secondo%20semestre/Geometria%20e%20algebra.pdf)
+### Secondo anno - Primo semestre 
+1. [METODI MATEMATICI PER L'INGEGNERIA (Prof. Umberto De Maio) -  8CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Primo%20semestre/Metodi%20matematici%20per%20l'ingegneria.pdf)
