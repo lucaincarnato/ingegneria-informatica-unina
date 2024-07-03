@@ -9,11 +9,13 @@ Gli appunti disponibili fanno riferimento a corsi di cui è stato sostenuto l'es
 2. [FISICA GENERALE I (Prof. Annalisa Allocca) - 6CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Primo%20semestre/Fisica%20generale%20I.pdf)
 3. [FONDAMENTI DI INFORMATICA (Prof. Valerio Persico) - 9CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Primo%20semestre/Fondamenti%20di%20Informatica.pdf)
 ### Primo anno - Secondo semestre
-1. [ANALISI MATEMATICA II (Prof. Giuseppe Cardone) - 6 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Secondo%20semestre/Analisi%20matematica%20II.pdf)
-2. [CALCOLATORI ELETTRONICI (Prof. Alessandro Cilardo) - 9 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Secondo%20semestre/Calcolatori%20elettronici.pdf)
-3. [FISICA GENERALE II (Prof. Elvira Rossi) - 6 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Secondo%20semestre/Fisica%20generale%20II.pdf)
-4. [GEOMETRIA E ALGEBRA (Prof. Giovanna Ilardi) - 6 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Secondo%20semestre/Geometria%20e%20algebra.pdf)
+4. [ANALISI MATEMATICA II (Prof. Giuseppe Cardone) - 6 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Secondo%20semestre/Analisi%20matematica%20II.pdf)
+5. [CALCOLATORI ELETTRONICI (Prof. Alessandro Cilardo) - 9 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Secondo%20semestre/Calcolatori%20elettronici.pdf)
+6. [FISICA GENERALE II (Prof. Elvira Rossi) - 6 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Secondo%20semestre/Fisica%20generale%20II.pdf)
+7. [GEOMETRIA E ALGEBRA (Prof. Giovanna Ilardi) - 6 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Primo%20Anno/Secondo%20semestre/Geometria%20e%20algebra.pdf)
 ### Secondo anno - Primo semestre 
-1. [METODI MATEMATICI PER L'INGEGNERIA (Prof. Umberto De Maio) -  8CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Primo%20semestre/Metodi%20matematici%20per%20l'ingegneria.pdf)
-2. [TEORIA DEI SEGNALI (Prof. Marcello Caleffi, Davide Mattera) -  9CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Primo%20semestre/Teoria%20dei%20segnali.pdf)
-2. [FONDAMENTI DI CIRCUITI (Prof. Luigi Verolino) -  9CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Primo%20semestre/Fondamenti%20di%20circuiti.pdf)
+8. [METODI MATEMATICI PER L'INGEGNERIA (Prof. Umberto De Maio) -  8CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Primo%20semestre/Metodi%20matematici%20per%20l'ingegneria.pdf)
+9. [TEORIA DEI SEGNALI (Prof. Marcello Caleffi, Davide Mattera) -  9CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Primo%20semestre/Teoria%20dei%20segnali.pdf)
+10. [FONDAMENTI DI CIRCUITI (Prof. Luigi Verolino) -  9CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Primo%20semestre/Fondamenti%20di%20circuiti.pdf)
+### Secondo anno - Secondo semestre 
+11. [PROGRAMMAZIONE (Prof. Paolo Maresca) - 9 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Secondo%20semestre/Programmazione.pdf)
