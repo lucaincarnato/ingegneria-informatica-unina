@@ -29,3 +29,4 @@ Gli appunti disponibili fanno riferimento a corsi di cui è stato sostenuto l'es
 17. [FONDAMENTI DI MISURE (Prof. Nicola Moccaldi) - 6CFU](https://github.com/lucapucchione/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Fondamenti%20di%20misure.pdf)
 ### Terzo anno - Secondo Semestre
 18. [ELEMENTI DI INTELLIGENZA ARTIFICIALE (Prof. Giancarlo Sperlì) - 6CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Secondo%20Semestre/Elementi%20di%20Intelligenza%20Artificiale)
+19. [INGEGNERIA DEL SOFTWARE (Prof. Domenico Amalfitano) - 10CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Secondo%20Semestre/Ingegneria%20del%20Software)
